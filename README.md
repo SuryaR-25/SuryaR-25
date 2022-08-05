@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there, I'm Surya R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<!--
-**SuryaR-25/SuryaR-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-r-78ab7a1b6)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Surya_25_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_s.u_.r._y.a_/)
+[![Linkedin Badge](https://img.shields.io/github/followers/SuryaR-25?style=social)](https://github.com/SuryaR-25?tab=following)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SuryaR-25.SuryaR-25)
+
+
+I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<br>
+
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br>
+
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on something cool;
+
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning Computer Graphics on [NPTEL](https://onlinecourses.nptel.ac.in/noc22_cs111/announcements?force=true);
+
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="24" />&nbsp;&nbsp; How to reach me: suryarsrm@gmail.com;
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaR-25&layout=compact&theme=vision-friendly-dark)](https://github.com/SuryaR-25/github-readme-stats)
+
+
