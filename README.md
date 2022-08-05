@@ -19,13 +19,13 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 </div>
 <br>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on something cool;
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on something cool;
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning Computer Graphics on [NPTEL](https://onlinecourses.nptel.ac.in/noc22_cs111/announcements?force=true);
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning Computer Graphics on [NPTEL](https://onlinecourses.nptel.ac.in/noc22_cs111/announcements?force=true);
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="24" />&nbsp;&nbsp; How to reach me: suryarsrm@gmail.com;
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/letterbox.gif?raw=true" width="24" />&nbsp;&nbsp; How to reach me: suryarsrm@gmail.com;
 
 
 
