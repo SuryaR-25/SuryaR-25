@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-r-78ab7a1b6)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Surya_25_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_s.u_.r._y.a_/)
@@ -28,7 +27,7 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 
 <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/letterbox.gif?raw=true" width="24" />&nbsp;&nbsp; How to reach me: suryarsrm@gmail.com;
-
+<br><br>
 
 
 📈 **My GitHub Stats:**
