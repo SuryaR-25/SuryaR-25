@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
+<img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-r-78ab7a1b6)
@@ -13,7 +13,7 @@
 
 I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
 <br>
 
 
