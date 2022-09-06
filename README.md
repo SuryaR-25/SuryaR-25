@@ -13,7 +13,7 @@
 
 I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="250" height="200" />
+<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="280" height="230" />
 <br>
 
 
