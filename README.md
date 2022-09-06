@@ -20,9 +20,9 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 
 **Talking about Personal Stuffs:**
 
-<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on something cool;
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on Datascience & DataAnalytics project in [IBM](https://www.ibm.com/in-en/marketing/careereducation/bigdata-analytics/);
 
-<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning Computer Graphics on [NPTEL](https://onlinecourses.nptel.ac.in/noc22_cs111/preview);
+<img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/lightning.gif?raw=true" width="25" />&nbsp;&nbsp; I’m currently learning DataAnalytics on [Microsoft](https://docs.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/?tab=tab-learning-paths);
 
 <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 
