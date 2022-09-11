@@ -13,12 +13,10 @@
 
 I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="280" height="230" />
+<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="380" height="330" />
 <br>
 
-
-
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp;I’m currently working on Datascience & DataAnalytics project in [IBM](https://www.ibm.com/in-en/marketing/careereducation/bigdata-analytics/);
 
@@ -33,8 +31,8 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 📄 Know about my experiences view my [Resume](https://drive.google.com/u/0/uc?id=1VYVHKPjdUihcTlf0H8Yu-eXYjl4u5i4X&export=download)
 <br><br>
 
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;
@@ -44,18 +42,13 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp; </p> <br><br>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;</p>
+<br>
 
 
-📈 **My GitHub Stats:**
+### 📈 My GitHub Stats:
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuryaR-25&show_icons=true&locale=en&layout=compact" alt="SuryaR-25"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=SuryaR-25&show_icons=true&locale=en" alt="SuryaR-25" /></p> 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaR-25&" alt="SuryaR-25" /></p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-25" alt="surya-25" /></a> </p>
-
-
