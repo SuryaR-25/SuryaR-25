@@ -50,13 +50,9 @@ I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking
 
 📈 **My GitHub Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaR-25&layout=compact&theme=vision-friendly-dark)](https://github.com/SuryaR-25/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuryaR-25&show_icons=true&locale=en&layout=compact" alt="SuryaR-25"/></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuryaR-25&show_icons=true&locale=en" alt="SuryaR-25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaR-25&" alt="SuryaR-25" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuryaR-25&show_icons=true&locale=en&layout=compact" alt="SuryaR-25"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=SuryaR-25&show_icons=true&locale=en" alt="SuryaR-25" /></p> 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaR-25&" alt="SuryaR-25" /></p>
 
 
 
