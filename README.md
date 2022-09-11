@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-r-78ab7a1b6)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Surya_25_)
@@ -12,7 +12,7 @@
 
 <p>I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.</p>
 
-<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
+<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="340" height="290" />
 
 ### Talking about Personal Stuffs:
 
