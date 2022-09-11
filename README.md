@@ -1,20 +1,18 @@
 ### Hi there, I'm Surya R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/surya-r-78ab7a1b6)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Surya_25_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_s.u_.r._y.a_/)
-[![Linkedin Badge](https://img.shields.io/github/followers/SuryaR-25?style=social)](https://github.com/SuryaR-25)
+[![Linkedin Badge](https://img.shields.io/github/followers/SuryaR-25?style=social)](https://github.com/SuryaR-25)<br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SuryaR-25.SuryaR-25)
 
 
-I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.
+<p>I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.</p>
 
-<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="380" height="330" />
-<br>
+<img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
 
 ### Talking about Personal Stuffs:
 
