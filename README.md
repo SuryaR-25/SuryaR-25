@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/><br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SuryaR-25.SuryaR-25) [![Linkedin Badge](https://img.shields.io/github/followers/SuryaR-25?style=social)](https://github.com/SuryaR-25)
-![](https://komarev.com/ghpvc/?username=SuryaR-25&label=PROFILE+VIEWS) 
+ 
 <p>I am a Fresher Studying BE.CSE... I love programming, writing, speaking, cooking and traveling.</p>
 <br>
 <img align="right" alt="GIF" src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/coding.gif?raw=true" width="340" height="290" />
